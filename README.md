@@ -3,4 +3,4 @@ Artifacts of the IEEES&amp;P 2025 paper "Security and Privacy Experiences of Fir
 
 # Files
 
-1. **Codebook - Immigrant Study.csv**: This is the comprehensive codebook for first- and second- generation Pakistani immigrants that was developed through Thematic Analysis.
+1. **Codebook - Immigrant Study.csv**: This is the comprehensive codebook that was developed after Thematic Analysis of qualitative interviews. The file includes 3 sheets detailing the summary of codes created across first- and second- generation Pakistani Immigrants.
