@@ -56,14 +56,15 @@ We will make every effort to prevent anyone who is not on the research team from
 - Government agencies (such as the Office for Human Research Protections in the U.S. Department of Health and Human Services), and others responsible for watching over the safety, effectiveness, and conduct of the research.
 - If a law or court requires us to share the information, we would have to follow that law or final court ruling.
 - Business offices at the University of Tennessee, Knoxville may be given your email to issue your payment and report tax information.
-- Finally, we will use Otter.ai to transcribe the interviews. According to their Terms of Service, your data may be used “for testing, tuning, optimizing, validating, or otherwise enhancing the analytics, models, or algorithms underlying the Service.”
+
+Finally, we will use Otter.ai to transcribe the interviews. According to their Terms of Service, your data may be used “for testing, tuning, optimizing, validating, or otherwise enhancing the analytics, models, or algorithms underlying the Service.”
 
 #### What will happen to my information after this study is over?
 We will not keep your personal information to use for future research. Your name and other information that can directly identify you will be deleted from your research data collected as part of the study. We may share your research data with other researchers without asking for your consent again, but it will not contain information that could directly identify you.
 
 #### Will I be paid for being in this research study?
-- **If you are an individual participant,** you will be given a $50 Amazon gift card for completing this study. To receive compensation, you will need to provide your email address. Following this, you will receive an email with a link to the gift card.
-- **If you participate as part of a parent-child pair,** you and your parent/child will each be given a $75 Amazon gift card for completing this study. To receive compensation, you will need to provide your email address. Following this, you will receive an email with a link to the gift card.
+- If you are an individual participant, you will be given a $50 Amazon gift card for completing this study. To receive compensation, you will need to provide your email address. Following this, you will receive an email with a link to the gift card.
+- If you participate as part of a parent-child pair, you and your parent/child will each be given a $75 Amazon gift card for completing this study. To receive compensation, you will need to provide your email address. Following this, you will receive an email with a link to the gift card.
 
 #### Who can answer my questions about this research study?
 If you have questions or concerns about this study, or have experienced a research-related problem or injury, contact the researchers, John Sadik (johns@utk.edu) or Warda Usman (warda97@byu.edu).
@@ -83,10 +84,7 @@ For questions or concerns about your rights or to speak with someone other than 
 ### Interview Signup
 I have read the above information form, been given the chance to ask questions, and have my questions answered. If I have more questions, I have been told who to contact. By clicking the button below and signing up for an interview time, I am providing my signature by electronic means and agree to be in this study. I can print or save a copy of this consent information for future reference. If I do not want to be in this study, I can choose not to sign up for an interview time.
 
-To participate, please email the researchers at JohnS@utk.edu.
 
-### Share this Study with Your Family and Friends
-Share:
-- [Twitter](#)
-- [Facebook](#)
-- Email study coordinator
+To participate, [sign up at this link] or contact Warda at warda97@byu.edu.
+
+
