@@ -1,7 +1,7 @@
 # IEEESP-Immigrants
 Artifacts of the 2025 IEEES&amp;P paper "Security and Privacy Experiences of First- and Second-Generation Pakistani Immigrants to the US: Perceptions, Practices, Challenges, and Parent-Child Dynamics"
 
-Warda Usman, John Sadik, Taha, Ran Elgedawy, Scott Ruoti, Daniel Zappala "Security and Privacy Experiences of First- and Second-Generation Pakistani Immigrants to the US: Perceptions, Practices, Challenges, and Parent-Child Dynamics", In 2025 IEEE Symposium on Security and Privacy (SP), IEEE, 2025.
+_Warda Usman, John Sadik, Taha, Ran Elgedawy, Scott Ruoti, Daniel Zappala "Security and Privacy Experiences of First- and Second-Generation Pakistani Immigrants to the US: Perceptions, Practices, Challenges, and Parent-Child Dynamics", In 2025 IEEE Symposium on Security and Privacy (SP), IEEE, 2025._
 
 
 ## Included Files
